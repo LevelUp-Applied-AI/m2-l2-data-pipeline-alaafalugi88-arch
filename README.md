@@ -123,3 +123,4 @@ Commit your `output/` PNG files — they are part of your submission.
    - Confirmation that all tests pass locally
 
 Paste your PR URL into the TalentLMS Lab 2 assignment submission field.
+Lab 2 submission
